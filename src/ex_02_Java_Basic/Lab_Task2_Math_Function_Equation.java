@@ -5,7 +5,7 @@ public class Lab_Task2_Math_Function_Equation {
         int x=10,y=10,z=10;
         double Result;
         Result=Math.cbrt(Math.pow(x,2)+Math.pow(y,2)-Math.abs(z));
-        System.out.print("Equation Answer: "+Result);
+        System.out.println("Equation Answer: "+Result);
 
 
     }
