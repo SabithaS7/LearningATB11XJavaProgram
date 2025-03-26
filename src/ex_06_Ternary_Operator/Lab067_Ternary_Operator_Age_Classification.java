@@ -14,5 +14,6 @@ public class Lab067_Ternary_Operator_Age_Classification {
         System.out.println(result);
 
 
+
     }
 }

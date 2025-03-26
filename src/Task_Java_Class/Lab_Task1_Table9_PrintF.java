@@ -1,4 +1,4 @@
-package ex_02_Java_Basic;
+package Task_Java_Class;
 
 public class Lab_Task1_Table9_PrintF {
     public static void main(String[] args) {

@@ -1,6 +1,5 @@
-package ex_02_Java_Basic;
+package Task_Java_Class;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Lab_Task3_GradeCalculator {
@@ -15,6 +14,7 @@ public class Lab_Task3_GradeCalculator {
       char Grade = (score<=100 && score>=90)?'A':(score<90 && score>=80)?'B':
                 (score<80 && score>=70)?'C':(score<70 && score>=60)?'E':'F';
         System.out.println("Your grade is "+Grade);
+
 
     }
 }
