@@ -16,7 +16,7 @@ public class Lab_Task8_Even_Or_Odd_Scanner {
             System.out.println(number + " is an odd number");
         }
 
-
+        sc.close(); //need to close the scanner as well
 
 
     }
