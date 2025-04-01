@@ -24,5 +24,6 @@ public class Lab_Task13_Palindrome_Or_Not {
         {
            System.out.println(str+ " is not a Palindrome");
         }
+        sc.close();
     }
 }

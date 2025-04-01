@@ -27,5 +27,10 @@ public class Lab_Task12_Vowels_Consonants {
         System.out.println("Number of Vowels in the String:  " +Vowel);
         System.out.println("Number of Consonants:  " +Constant);
 
+        sc.close();
+
     }
+
+
+
 }
